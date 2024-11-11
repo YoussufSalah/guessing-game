@@ -13,3 +13,6 @@ Project from: [roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
 _______________________
 ### Wanna support me ?
 [Buy me a coffe!](https://ko-fi.com/youssufsalah)
+______________________
+### Tags
+#javascript #webdev #opensource #api #tutorial
