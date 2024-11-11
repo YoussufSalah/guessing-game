@@ -15,4 +15,4 @@ _______________________
 [Buy me a coffe!](https://ko-fi.com/youssufsalah)
 ______________________
 ### Tags
-#javascript #webdev #opensource #api #tutorial
+#javascript #webdev #opensource #api #tutorial #console #terminal #cli #game #numberguessinggame #github
